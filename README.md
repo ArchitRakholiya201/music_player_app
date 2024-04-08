@@ -13,6 +13,9 @@ A simple and elegant music player app built with Flutter, allowing users to play
 ### Technologies Used:
 - Flutter for the frontend user interface.
 
+## Screenshots
+<img src="https://github.com/ArchitRakholiya201/music_player_app/blob/main/assets/home_screen.jpg?raw=true" width="260"> <img src="https://github.com/ArchitRakholiya201/music_player_app/blob/main/assets/images/play_screen.jpg?raw=true" width="260">
+
 ### How to Contribute:
 - Fork and clone the repository.
 - Install Flutter and set up your development environment.
